@@ -1,0 +1,13 @@
+<DOCTYPE HTML>
+<html lang="pl">
+<head>
+   <meta charseat=uft-8 />
+</head>
+<body>
+<?Php 
+    echo="Hello World";
+
+
+?>
+</body>
+</html>
